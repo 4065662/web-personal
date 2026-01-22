@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Bienvenida
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hola, soy **Alejandro Salmerón Rodríguez**.
+Esta es mi página web personal la cual ha sido creada con **MkDocs** para la asignatura "Entornos de Desarrollo".
 
-## Commands
+## ¿Qué vas a encontrar aquí?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+1. Información sobre mí.
+2. Mi formación y experiencia.
+3. Mi página de proyectos propios.
+4. Mi página de contacto.
+Para navegar utilizar el menú superior.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
