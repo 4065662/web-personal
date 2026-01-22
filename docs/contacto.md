@@ -10,7 +10,7 @@ Para ponerte en contacto conmigo aquí te dejo los siguientes metodos:
 
 A continuación se muestra un pequeño ejemplo de en Java:
 
-```java
+```
 public class HolaMundo {
 
     public static void main(String[] args) {
