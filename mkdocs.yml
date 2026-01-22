@@ -1,0 +1,8 @@
+site_name: Proyecto de Alejandro Salmerón Rodríguez
+site_url: https://4065662.github.io/proyecto-mkdocs/
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+
