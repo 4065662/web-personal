@@ -5,4 +5,8 @@ theme:
 
 nav:
   - Inicio: index.md
+  - Formación y Experiencia: formacion.md
+  - Proyectos: proyectos.md
+  - Contacto: contacto.md
+
 
