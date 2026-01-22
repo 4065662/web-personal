@@ -5,7 +5,7 @@ theme:
 
 nav:
   - Inicio: index.md
-  - Información sobre mí: formacion.md
+  - Información sobre mí: formación.md
   - Mi página de proyectos propios: proyectos.md
   - Mi página de contacto: contacto.md
 
